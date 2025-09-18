@@ -191,7 +191,12 @@ const InvoicePreview = forwardRef<HTMLDivElement, Props>(({ data }, ref) => {
           </table>
 
           {/* Totals */}
-         
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
           <div className="grid grid-cols-2 gap-6 mt-4">
             <div />
             <div className="space-y-1 text-sm">
