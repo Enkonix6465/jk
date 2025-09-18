@@ -61,7 +61,7 @@ const InvoicePreview = forwardRef<HTMLDivElement, Props>(({ data }, ref) => {
                   src={statusImages[data.status] || ""}
                   alt={data.status}
                   style={{
-                    width: 142,
+                    width: 193,
                     height: 124,
                     opacity: 0.9,
                     pointerEvents: "none",
