@@ -62,7 +62,7 @@ const InvoicePreview = forwardRef<HTMLDivElement, Props>(({ data }, ref) => {
                   alt={data.status}
                   style={{
                     width: 124,
-                    height: 93,
+                    height: 124,
                     opacity: 0.9,
                     pointerEvents: "none",
                     mixBlendMode: "normal",
